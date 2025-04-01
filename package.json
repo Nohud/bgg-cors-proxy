@@ -1,7 +1,7 @@
 {
   "name": "bgg-cors-proxy",
-  "version": "1.0.0",
-  "description": "Proxy CORS sécurisé pour BoardGameGeek",
+  "version": "1.1.0",
+  "description": "Proxy CORS sécurisé pour BoardGameGeek avec en-têtes compatibles navigateur",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
