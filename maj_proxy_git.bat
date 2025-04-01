@@ -18,7 +18,7 @@ REM === Commit & Push ===
 echo ✅ Commit des changements...
 git add .
 git commit -m "Mise à jour du proxy avec correctif CORS"
-git push
+git push -f
 
 echo.
 echo 🎉 Terminé ! Ton dépôt GitHub est à jour, et Render va se redéployer.
